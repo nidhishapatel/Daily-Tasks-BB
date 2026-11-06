@@ -1,0 +1,23 @@
+artifact_path: file:c:/Users/Lenovo/Downloads/nidhu/company work/Daily task/4_11_tasks/mlruns/1/models/m-45e57b6949d941f7809ce677c7527a0e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: pickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.18.0
+model_id: m-45e57b6949d941f7809ce677c7527a0e
+model_size_bytes: 308982
+model_uuid: m-45e57b6949d941f7809ce677c7527a0e
+prompts: null
+run_id: b48f676aecec495bbe74b38b5dfb2a50
+utc_time_created: '2026-11-05 17:27:46.798184'
