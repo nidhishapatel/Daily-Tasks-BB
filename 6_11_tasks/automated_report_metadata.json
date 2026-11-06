@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-11-06 13:16:48",
+  "kpis": {
+    "total_records": "177,990",
+    "total_units_sold": "79,724,186",
+    "total_revenue": "$4,190,812,220.72",
+    "average_unit_price": "$52.55",
+    "top_category": "Antipyretic",
+    "top_region": "East Asia",
+    "top_medicine": "Paracetamol",
+    "covid_period_share": "33.4%"
+  },
+  "model_evaluations": [
+    {
+      "model_name": "Random Forest Classifier",
+      "accuracy": "0.7554",
+      "precision": "0.7619",
+      "recall": "0.3904",
+      "f1_score": "0.5163",
+      "auc_roc": "0.8013"
+    },
+    {
+      "model_name": "Logistic Regression",
+      "accuracy": "0.7546",
+      "precision": "0.7814",
+      "recall": "0.3694",
+      "f1_score": "0.5016",
+      "auc_roc": "0.7992"
+    }
+  ],
+  "top_features": [
+    {
+      "feature": "units_sold",
+      "importance": 0.5329643772458172
+    },
+    {
+      "feature": "stock_level",
+      "importance": 0.43044115603218625
+    },
+    {
+      "feature": "unit_price",
+      "importance": 0.017740881057025443
+    },
+    {
+      "feature": "expiry_days_remaining",
+      "importance": 0.015037074913866076
+    },
+    {
+      "feature": "category_Antipyretic",
+      "importance": 0.0010393284605084954
+    }
+  ]
+}
