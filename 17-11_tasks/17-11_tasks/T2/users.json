@@ -1,0 +1,17 @@
+{
+    "admin": {
+        "password": "0a38aa0f92b3fea62a258752522b49706f32dfc6b3698d4ae67c961dfb611c94",
+        "role": "admin",
+        "description": "System Administrator with infrastructure and user management access"
+    },
+    "manager": {
+        "password": "6726f6032571b0e9744448f453701158c8ba9a95b4158985f159dadb185bd94c",
+        "role": "manager",
+        "description": "Operations Manager with revenue KPIs and inventory oversight"
+    },
+    "analyst": {
+        "password": "5032688a9439f1ba47f76c0cdc73cba32c82733d36a2f430738b4e27e93cc77c",
+        "role": "analyst",
+        "description": "Data Analyst with ML demand forecasting and risk analysis"
+    }
+}
