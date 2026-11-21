@@ -1,0 +1,34 @@
+{
+    "active_version": "v3.0",
+    "active_model_path": "model_registry/pharmacy_model_v3.0.joblib",
+    "training_samples": 5040,
+    "validation_r2": 0.9496000193598999,
+    "validation_mse": 5314.240695791519,
+    "last_updated": "2026-11-20T15:39:34.660368",
+    "history": [
+        {
+            "version": "v1.0",
+            "samples": 3600,
+            "r2": 0.9482086623927923,
+            "mse": 5460.947216767698,
+            "timestamp": "2026-11-20T15:39:33.684489",
+            "action": "initial_deployment"
+        },
+        {
+            "version": "v2.0",
+            "samples": 4320,
+            "r2": 0.949216496890264,
+            "mse": 5354.6798128309365,
+            "timestamp": "2026-11-20T15:39:34.187106",
+            "action": "promoted_to_production"
+        },
+        {
+            "version": "v3.0",
+            "samples": 5040,
+            "r2": 0.9496000193598999,
+            "mse": 5314.240695791519,
+            "timestamp": "2026-11-20T15:39:34.660368",
+            "action": "promoted_to_production"
+        }
+    ]
+}
