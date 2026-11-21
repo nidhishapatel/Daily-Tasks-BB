@@ -1,0 +1,721 @@
+date,year,month,day,region,country,category,medicine,age_group,units_sold,unit_price,stock_level,expiry_days_remaining,covid_flag
+2025-04-19,2025,4,19,South America,Argentina,Antibiotic,Azithromycin,65+,307,36.61,4716,356,0
+2025-04-20,2025,4,20,South Asia,Bangladesh,Vitamin,Vitamin C,26-45,595,40.93,4253,284,0
+2025-04-21,2025,4,21,Europe,France,Chronic,Metformin,65+,629,45.59,4359,263,0
+2025-04-21,2025,4,21,South Asia,Bangladesh,Vitamin,Multivitamin,0-12,437,74.15,4686,506,0
+2025-04-22,2025,4,22,Europe,UK,Chronic,Metformin,0-12,459,16.83,4524,197,0
+2025-04-22,2025,4,22,North America,USA,Antipyretic,Ibuprofen,13-25,579,71.03,4518,255,0
+2025-04-22,2025,4,22,Europe,France,Cough_Cold,Cetirizine,26-45,374,22.61,4588,186,0
+2025-04-23,2025,4,23,South America,Brazil,Cough_Cold,Cough Syrup,0-12,260,62.47,4710,187,0
+2025-04-23,2025,4,23,East Asia,China,Vitamin,Vitamin C,46-65,399,19.53,4609,174,0
+2025-04-23,2025,4,23,East Asia,South Korea,Cough_Cold,Cough Syrup,46-65,557,98.55,4329,322,0
+2025-04-24,2025,4,24,South America,Brazil,Antibiotic,Amoxicillin,26-45,508,44.2,4411,278,0
+2025-04-24,2025,4,24,Africa,Nigeria,Antibiotic,Amoxicillin,26-45,444,89.8,4620,475,0
+2025-04-24,2025,4,24,East Asia,Japan,Cough_Cold,Cetirizine,46-65,467,8.05,4416,688,0
+2025-04-24,2025,4,24,North America,Canada,Vitamin,Multivitamin,46-65,485,93.65,4588,551,0
+2025-04-24,2025,4,24,South Asia,Sri Lanka,Cough_Cold,Cetirizine,0-12,407,60.67,4430,294,0
+2025-04-24,2025,4,24,East Asia,China,Vitamin,Multivitamin,46-65,551,75.24,4426,181,0
+2025-04-25,2025,4,25,Oceania,New Zealand,Chronic,Metformin,46-65,457,54.63,4441,285,0
+2025-04-25,2025,4,25,East Asia,South Korea,Cough_Cold,Cough Syrup,65+,518,85.66,4480,543,0
+2025-04-25,2025,4,25,Europe,UK,Cough_Cold,Cetirizine,0-12,325,15.76,4670,273,0
+2025-04-25,2025,4,25,East Asia,Japan,Cough_Cold,Cetirizine,0-12,375,88.38,4709,53,0
+2025-04-26,2025,4,26,South America,Brazil,Antibiotic,Azithromycin,0-12,277,72.57,4772,408,0
+2025-04-26,2025,4,26,North America,USA,Chronic,Amlodipine,13-25,609,5.22,4482,375,0
+2025-04-27,2025,4,27,South Asia,Bangladesh,Chronic,Amlodipine,26-45,359,54.86,4665,559,0
+2025-04-27,2025,4,27,South America,Argentina,Antipyretic,Ibuprofen,0-12,565,26.05,4355,211,0
+2025-04-28,2025,4,28,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,26-45,293,11.33,4835,708,0
+2025-04-28,2025,4,28,Africa,Nigeria,Antibiotic,Amoxicillin,46-65,324,84.78,4691,92,0
+2025-04-28,2025,4,28,Oceania,New Zealand,Antibiotic,Azithromycin,0-12,661,47.15,4325,585,0
+2025-04-29,2025,4,29,South Asia,Bangladesh,Chronic,Metformin,26-45,417,37.3,4720,241,0
+2025-04-29,2025,4,29,North America,USA,Antibiotic,Azithromycin,65+,619,46.4,4357,170,0
+2025-04-29,2025,4,29,South Asia,India,Antibiotic,Amoxicillin,13-25,272,81.0,4849,32,0
+2025-04-30,2025,4,30,Europe,UK,Antipyretic,Paracetamol,65+,469,40.6,4729,318,0
+2025-04-30,2025,4,30,East Asia,South Korea,Vitamin,Multivitamin,65+,640,69.83,4394,191,0
+2025-04-30,2025,4,30,Africa,Kenya,Vitamin,Multivitamin,65+,506,86.13,4335,253,0
+2025-04-30,2025,4,30,South America,Brazil,Antibiotic,Amoxicillin,65+,386,97.25,4654,165,0
+2025-04-30,2025,4,30,Middle East,Saudi Arabia,Chronic,Metformin,46-65,478,52.36,4412,99,0
+2025-04-30,2025,4,30,Europe,UK,Vitamin,Vitamin C,65+,509,65.58,4620,182,0
+2025-05-01,2025,5,1,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,0-12,328,91.94,4669,376,0
+2025-05-01,2025,5,1,South America,Argentina,Chronic,Metformin,65+,237,22.63,4641,544,0
+2025-05-01,2025,5,1,South America,Argentina,Cough_Cold,Cetirizine,46-65,475,30.5,4612,298,0
+2025-05-01,2025,5,1,Oceania,Australia,Vitamin,Vitamin C,26-45,595,56.27,4437,661,0
+2025-05-02,2025,5,2,Europe,France,Chronic,Metformin,13-25,520,43.82,4533,181,0
+2025-05-03,2025,5,3,East Asia,South Korea,Antipyretic,Ibuprofen,0-12,274,26.35,4601,515,0
+2025-05-03,2025,5,3,Oceania,New Zealand,Vitamin,Multivitamin,46-65,468,36.82,4489,505,0
+2025-05-03,2025,5,3,East Asia,Japan,Cough_Cold,Cough Syrup,46-65,466,36.26,4340,323,0
+2025-05-03,2025,5,3,East Asia,Japan,Antibiotic,Azithromycin,46-65,328,77.33,4706,36,0
+2025-05-04,2025,5,4,East Asia,China,Chronic,Amlodipine,46-65,231,54.31,4569,510,0
+2025-05-05,2025,5,5,South Asia,Sri Lanka,Antibiotic,Amoxicillin,65+,250,56.83,4863,165,0
+2025-05-06,2025,5,6,Oceania,Australia,Cough_Cold,Cough Syrup,26-45,526,66.11,4319,73,0
+2025-05-06,2025,5,6,East Asia,China,Cough_Cold,Cough Syrup,26-45,203,19.42,4940,194,0
+2025-05-06,2025,5,6,South America,Brazil,Chronic,Metformin,26-45,306,40.14,4730,480,0
+2025-05-06,2025,5,6,North America,USA,Cough_Cold,Cough Syrup,46-65,312,18.26,4760,85,0
+2025-05-07,2025,5,7,Europe,Germany,Antipyretic,Paracetamol,26-45,329,34.25,4520,548,0
+2025-05-07,2025,5,7,South Asia,Sri Lanka,Antipyretic,Paracetamol,65+,482,67.01,4667,680,0
+2025-05-09,2025,5,9,South America,Brazil,Antipyretic,Paracetamol,46-65,260,99.85,4710,529,0
+2025-05-09,2025,5,9,South Asia,India,Vitamin,Multivitamin,26-45,254,5.93,4754,389,0
+2025-05-09,2025,5,9,Africa,Nigeria,Chronic,Amlodipine,46-65,630,78.43,4398,255,0
+2025-05-09,2025,5,9,Middle East,UAE,Chronic,Metformin,0-12,396,9.48,4604,127,0
+2025-05-09,2025,5,9,East Asia,South Korea,Antibiotic,Azithromycin,13-25,303,94.76,4650,393,0
+2025-05-10,2025,5,10,Oceania,New Zealand,Vitamin,Vitamin C,0-12,437,16.29,4604,137,0
+2025-05-11,2025,5,11,Middle East,Saudi Arabia,Antibiotic,Azithromycin,0-12,385,11.87,4457,368,0
+2025-05-11,2025,5,11,South America,Brazil,Antibiotic,Amoxicillin,0-12,256,64.19,4562,176,0
+2025-05-11,2025,5,11,Europe,UK,Cough_Cold,Cough Syrup,65+,407,64.2,4485,104,0
+2025-05-11,2025,5,11,South Asia,Sri Lanka,Antibiotic,Amoxicillin,65+,504,93.02,4542,191,0
+2025-05-11,2025,5,11,Africa,Nigeria,Cough_Cold,Cough Syrup,0-12,420,87.24,4643,328,0
+2025-05-11,2025,5,11,Middle East,UAE,Vitamin,Vitamin C,65+,351,24.67,4713,146,0
+2025-05-12,2025,5,12,East Asia,Japan,Chronic,Metformin,65+,567,39.13,4463,294,0
+2025-05-12,2025,5,12,Oceania,Australia,Chronic,Metformin,46-65,225,18.42,4879,441,0
+2025-05-12,2025,5,12,Middle East,UAE,Antipyretic,Ibuprofen,46-65,437,27.65,4508,197,0
+2025-05-13,2025,5,13,Africa,Kenya,Chronic,Amlodipine,65+,587,99.69,4254,445,0
+2025-05-13,2025,5,13,Middle East,UAE,Cough_Cold,Cetirizine,65+,418,53.04,4521,232,0
+2025-05-13,2025,5,13,Africa,Kenya,Antibiotic,Amoxicillin,0-12,491,39.77,4509,72,0
+2025-05-14,2025,5,14,North America,Canada,Chronic,Metformin,46-65,248,83.74,4805,313,0
+2025-05-14,2025,5,14,Europe,France,Chronic,Metformin,0-12,562,23.59,4558,576,0
+2025-05-14,2025,5,14,Africa,Nigeria,Chronic,Amlodipine,0-12,470,44.49,4557,69,0
+2025-05-15,2025,5,15,Africa,Nigeria,Antibiotic,Amoxicillin,46-65,317,73.15,4749,448,0
+2025-05-15,2025,5,15,Oceania,New Zealand,Chronic,Amlodipine,0-12,450,10.92,4596,513,0
+2025-05-15,2025,5,15,East Asia,China,Antibiotic,Amoxicillin,26-45,430,92.04,4436,66,0
+2025-05-16,2025,5,16,North America,Canada,Vitamin,Vitamin C,13-25,520,38.17,4591,206,0
+2025-05-16,2025,5,16,Africa,Nigeria,Antipyretic,Ibuprofen,26-45,464,39.9,4495,527,0
+2025-05-16,2025,5,16,South Asia,Bangladesh,Antibiotic,Azithromycin,65+,540,20.1,4413,77,0
+2025-05-17,2025,5,17,Oceania,Australia,Chronic,Amlodipine,26-45,581,8.08,4233,274,0
+2025-05-17,2025,5,17,Europe,Germany,Vitamin,Vitamin C,46-65,285,41.36,4668,461,0
+2025-05-17,2025,5,17,North America,Canada,Vitamin,Vitamin C,46-65,464,24.79,4717,507,0
+2025-05-18,2025,5,18,Africa,Kenya,Cough_Cold,Cetirizine,13-25,205,58.62,4810,122,0
+2025-05-19,2025,5,19,East Asia,China,Cough_Cold,Cetirizine,0-12,210,10.13,4697,469,0
+2025-05-19,2025,5,19,Europe,Germany,Vitamin,Vitamin C,13-25,356,32.62,4644,143,0
+2025-05-19,2025,5,19,Middle East,UAE,Vitamin,Multivitamin,13-25,464,49.94,4631,249,0
+2025-05-19,2025,5,19,Africa,Nigeria,Chronic,Amlodipine,0-12,615,43.05,4584,75,0
+2025-05-19,2025,5,19,East Asia,South Korea,Antipyretic,Paracetamol,0-12,559,22.06,4448,616,0
+2025-05-20,2025,5,20,East Asia,Japan,Cough_Cold,Cetirizine,0-12,271,39.4,4726,453,0
+2025-05-20,2025,5,20,Africa,Nigeria,Chronic,Metformin,65+,546,25.74,4367,480,0
+2025-05-21,2025,5,21,South Asia,India,Chronic,Metformin,0-12,395,13.31,4723,573,0
+2025-05-21,2025,5,21,Middle East,UAE,Antipyretic,Paracetamol,13-25,380,10.21,4660,281,0
+2025-05-21,2025,5,21,North America,USA,Antipyretic,Paracetamol,26-45,330,84.12,4512,85,0
+2025-05-21,2025,5,21,North America,USA,Chronic,Amlodipine,0-12,495,56.08,4584,711,0
+2025-05-21,2025,5,21,Middle East,Saudi Arabia,Antibiotic,Azithromycin,13-25,491,49.6,4652,326,0
+2025-05-21,2025,5,21,Middle East,Saudi Arabia,Cough_Cold,Cetirizine,26-45,384,42.15,4765,103,0
+2025-05-22,2025,5,22,Africa,Nigeria,Chronic,Amlodipine,46-65,407,88.48,4752,314,0
+2025-05-22,2025,5,22,East Asia,Japan,Cough_Cold,Cough Syrup,0-12,387,9.0,4487,127,0
+2025-05-22,2025,5,22,South Asia,Sri Lanka,Chronic,Amlodipine,0-12,363,56.5,4705,88,0
+2025-05-22,2025,5,22,Middle East,Saudi Arabia,Antibiotic,Azithromycin,46-65,304,88.19,4678,83,0
+2025-05-23,2025,5,23,Oceania,New Zealand,Cough_Cold,Cough Syrup,65+,313,42.05,4560,695,0
+2025-05-23,2025,5,23,South Asia,India,Vitamin,Vitamin C,0-12,512,70.0,4647,49,0
+2025-05-24,2025,5,24,Oceania,Australia,Vitamin,Multivitamin,65+,414,78.48,4477,43,0
+2025-05-25,2025,5,25,South Asia,Sri Lanka,Antipyretic,Paracetamol,26-45,306,25.9,4888,411,0
+2025-05-26,2025,5,26,Middle East,Saudi Arabia,Vitamin,Vitamin C,0-12,361,25.5,4708,386,0
+2025-05-26,2025,5,26,Africa,Kenya,Vitamin,Multivitamin,26-45,497,65.48,4435,70,0
+2025-05-26,2025,5,26,South Asia,Bangladesh,Chronic,Metformin,26-45,559,67.84,4277,250,0
+2025-05-27,2025,5,27,South Asia,Bangladesh,Cough_Cold,Cough Syrup,46-65,312,50.38,4667,406,0
+2025-05-27,2025,5,27,East Asia,Japan,Antibiotic,Amoxicillin,26-45,540,95.33,4500,675,0
+2025-05-28,2025,5,28,Europe,Germany,Chronic,Metformin,46-65,403,66.88,4709,219,0
+2025-05-28,2025,5,28,South Asia,India,Antibiotic,Amoxicillin,46-65,260,93.88,4547,716,0
+2025-05-28,2025,5,28,South Asia,Bangladesh,Antibiotic,Azithromycin,46-65,359,52.82,4833,243,0
+2025-05-28,2025,5,28,South America,Brazil,Antibiotic,Azithromycin,26-45,390,20.62,4669,146,0
+2025-05-29,2025,5,29,East Asia,Japan,Vitamin,Vitamin C,65+,494,74.04,4421,168,0
+2025-05-29,2025,5,29,Oceania,Australia,Antibiotic,Azithromycin,13-25,552,59.67,4400,339,0
+2025-05-30,2025,5,30,Europe,France,Cough_Cold,Cough Syrup,65+,517,61.38,4519,520,0
+2025-05-30,2025,5,30,North America,USA,Antipyretic,Ibuprofen,0-12,277,18.15,4859,492,0
+2025-05-31,2025,5,31,South America,Brazil,Vitamin,Vitamin C,0-12,340,44.13,4728,648,0
+2025-05-31,2025,5,31,Middle East,Saudi Arabia,Vitamin,Multivitamin,65+,521,11.54,4340,671,0
+2025-05-31,2025,5,31,East Asia,South Korea,Antipyretic,Paracetamol,65+,326,37.11,4481,465,0
+2025-05-31,2025,5,31,Middle East,Saudi Arabia,Cough_Cold,Cetirizine,46-65,467,36.1,4445,628,0
+2025-05-31,2025,5,31,Middle East,UAE,Antipyretic,Ibuprofen,13-25,432,71.64,4559,561,0
+2025-06-01,2025,6,1,North America,USA,Vitamin,Multivitamin,0-12,294,56.61,4859,692,0
+2025-06-02,2025,6,2,North America,Canada,Vitamin,Multivitamin,46-65,228,50.72,4674,54,0
+2025-06-02,2025,6,2,South America,Brazil,Antibiotic,Amoxicillin,46-65,308,74.31,4805,135,0
+2025-06-03,2025,6,3,North America,Canada,Antipyretic,Paracetamol,26-45,320,77.3,4727,294,0
+2025-06-03,2025,6,3,South America,Brazil,Antipyretic,Ibuprofen,46-65,480,11.16,4661,433,0
+2025-06-03,2025,6,3,North America,Canada,Vitamin,Vitamin C,13-25,356,44.25,4558,126,0
+2025-06-04,2025,6,4,Africa,Nigeria,Chronic,Metformin,0-12,319,89.28,4587,406,0
+2025-06-04,2025,6,4,Africa,Nigeria,Antipyretic,Ibuprofen,13-25,522,39.3,4577,100,0
+2025-06-04,2025,6,4,Middle East,UAE,Cough_Cold,Cough Syrup,0-12,384,83.42,4632,331,0
+2025-06-04,2025,6,4,Middle East,UAE,Antibiotic,Amoxicillin,26-45,473,70.17,4529,472,0
+2025-06-05,2025,6,5,South America,Argentina,Antibiotic,Azithromycin,46-65,312,22.22,4725,73,0
+2025-06-05,2025,6,5,Africa,Kenya,Chronic,Amlodipine,26-45,315,80.03,4614,92,0
+2025-06-06,2025,6,6,Europe,France,Cough_Cold,Cetirizine,26-45,252,29.99,4646,89,0
+2025-06-07,2025,6,7,Africa,Kenya,Vitamin,Vitamin C,13-25,391,21.18,4707,195,0
+2025-06-07,2025,6,7,North America,USA,Chronic,Amlodipine,0-12,391,8.52,4680,166,0
+2025-06-08,2025,6,8,South America,Brazil,Antipyretic,Paracetamol,26-45,490,27.25,4427,319,0
+2025-06-08,2025,6,8,South Asia,India,Vitamin,Multivitamin,46-65,445,7.55,4571,575,0
+2025-06-09,2025,6,9,South Asia,Bangladesh,Chronic,Amlodipine,46-65,267,64.38,4864,393,0
+2025-06-09,2025,6,9,South America,Brazil,Chronic,Metformin,26-45,260,69.9,4811,336,0
+2025-06-09,2025,6,9,Oceania,New Zealand,Cough_Cold,Cetirizine,65+,331,87.98,4589,449,0
+2025-06-09,2025,6,9,South Asia,Bangladesh,Cough_Cold,Cetirizine,26-45,409,84.32,4469,220,0
+2025-06-10,2025,6,10,South Asia,Bangladesh,Antibiotic,Amoxicillin,0-12,238,54.6,4940,198,0
+2025-06-10,2025,6,10,East Asia,China,Antipyretic,Paracetamol,65+,461,66.3,4482,241,0
+2025-06-10,2025,6,10,Africa,Nigeria,Antipyretic,Ibuprofen,0-12,264,42.55,4601,375,0
+2025-06-11,2025,6,11,Africa,Nigeria,Antibiotic,Amoxicillin,65+,205,87.21,4931,204,0
+2025-06-11,2025,6,11,South America,Brazil,Antipyretic,Ibuprofen,46-65,273,17.53,4874,470,0
+2025-06-11,2025,6,11,North America,USA,Cough_Cold,Cough Syrup,13-25,331,10.51,4633,352,0
+2025-06-11,2025,6,11,South America,Argentina,Antipyretic,Paracetamol,46-65,376,87.5,4677,87,0
+2025-06-11,2025,6,11,Europe,France,Cough_Cold,Cough Syrup,46-65,512,78.75,4360,354,0
+2025-06-11,2025,6,11,Europe,Germany,Antibiotic,Azithromycin,46-65,473,94.63,4480,619,0
+2025-06-11,2025,6,11,Africa,Kenya,Cough_Cold,Cetirizine,0-12,414,15.44,4429,343,0
+2025-06-12,2025,6,12,North America,USA,Vitamin,Multivitamin,65+,428,85.33,4602,637,0
+2025-06-12,2025,6,12,South Asia,Bangladesh,Cough_Cold,Cetirizine,0-12,370,42.2,4753,182,0
+2025-06-13,2025,6,13,Oceania,New Zealand,Antipyretic,Paracetamol,0-12,458,85.3,4559,220,0
+2025-06-13,2025,6,13,Europe,Germany,Antibiotic,Amoxicillin,13-25,480,16.99,4613,582,0
+2025-06-13,2025,6,13,South America,Brazil,Antipyretic,Paracetamol,26-45,229,37.03,4592,271,0
+2025-06-13,2025,6,13,South America,Brazil,Antibiotic,Amoxicillin,26-45,352,11.88,4638,214,0
+2025-06-13,2025,6,13,Middle East,UAE,Chronic,Amlodipine,65+,481,8.18,4560,246,0
+2025-06-14,2025,6,14,Europe,France,Antipyretic,Ibuprofen,26-45,417,11.15,4573,374,0
+2025-06-14,2025,6,14,Africa,Kenya,Antibiotic,Amoxicillin,0-12,364,36.69,4806,230,0
+2025-06-14,2025,6,14,North America,USA,Antibiotic,Azithromycin,65+,269,42.08,4896,129,0
+2025-06-15,2025,6,15,Oceania,New Zealand,Antibiotic,Azithromycin,13-25,279,8.27,4671,66,0
+2025-06-15,2025,6,15,North America,Canada,Chronic,Metformin,26-45,401,64.67,4774,92,0
+2025-06-15,2025,6,15,South Asia,India,Antipyretic,Ibuprofen,26-45,1443,79.4,3560,618,0
+2025-06-15,2025,6,15,Europe,UK,Antipyretic,Ibuprofen,65+,454,86.24,4621,436,0
+2025-06-15,2025,6,15,Africa,Kenya,Vitamin,Multivitamin,65+,256,87.61,4730,608,0
+2025-06-16,2025,6,16,South America,Argentina,Antipyretic,Ibuprofen,46-65,251,42.5,4901,83,0
+2025-06-17,2025,6,17,Europe,France,Antipyretic,Paracetamol,26-45,248,94.33,4866,398,0
+2025-06-17,2025,6,17,Middle East,Saudi Arabia,Vitamin,Multivitamin,46-65,466,56.38,4568,680,0
+2025-06-17,2025,6,17,South Asia,Bangladesh,Cough_Cold,Cough Syrup,13-25,372,12.26,4742,130,0
+2025-06-17,2025,6,17,North America,USA,Antibiotic,Azithromycin,26-45,393,74.91,4480,262,0
+2025-06-17,2025,6,17,East Asia,Japan,Antipyretic,Ibuprofen,0-12,501,66.02,4522,550,0
+2025-06-18,2025,6,18,Middle East,Saudi Arabia,Chronic,Metformin,46-65,422,63.53,4743,474,0
+2025-06-18,2025,6,18,Oceania,New Zealand,Vitamin,Multivitamin,65+,501,94.25,4666,90,0
+2025-06-19,2025,6,19,South Asia,India,Cough_Cold,Cetirizine,46-65,219,58.45,4946,212,0
+2025-06-20,2025,6,20,South America,Brazil,Cough_Cold,Cetirizine,26-45,437,61.52,4503,222,0
+2025-06-20,2025,6,20,South Asia,Sri Lanka,Chronic,Metformin,65+,191,75.12,4620,575,0
+2025-06-20,2025,6,20,Europe,France,Cough_Cold,Cetirizine,0-12,191,15.67,4867,438,0
+2025-06-20,2025,6,20,East Asia,China,Chronic,Amlodipine,65+,411,56.97,4493,432,0
+2025-06-21,2025,6,21,South Asia,Sri Lanka,Antipyretic,Paracetamol,13-25,210,20.12,4877,103,0
+2025-06-21,2025,6,21,Middle East,Saudi Arabia,Chronic,Metformin,13-25,239,95.3,4607,599,0
+2025-06-21,2025,6,21,South Asia,India,Antipyretic,Ibuprofen,46-65,207,6.27,4951,351,0
+2025-06-21,2025,6,21,East Asia,Japan,Antipyretic,Ibuprofen,65+,263,77.12,4821,421,0
+2025-06-21,2025,6,21,Africa,Kenya,Cough_Cold,Cetirizine,26-45,532,63.26,4452,190,0
+2025-06-21,2025,6,21,North America,Canada,Cough_Cold,Cetirizine,13-25,422,31.88,4744,280,0
+2025-06-21,2025,6,21,Oceania,New Zealand,Antipyretic,Ibuprofen,0-12,337,98.06,4833,237,0
+2025-06-21,2025,6,21,Middle East,Saudi Arabia,Antipyretic,Ibuprofen,65+,300,74.87,4555,622,0
+2025-06-22,2025,6,22,East Asia,China,Cough_Cold,Cough Syrup,0-12,272,19.42,4778,172,0
+2025-06-22,2025,6,22,South Asia,Bangladesh,Antipyretic,Ibuprofen,46-65,412,79.17,4450,234,0
+2025-06-22,2025,6,22,North America,Canada,Chronic,Amlodipine,13-25,293,27.41,4603,85,0
+2025-06-23,2025,6,23,Europe,Germany,Chronic,Metformin,46-65,427,23.82,4437,483,0
+2025-06-23,2025,6,23,South America,Brazil,Antibiotic,Azithromycin,0-12,408,91.19,4658,205,0
+2025-06-23,2025,6,23,Africa,Kenya,Chronic,Amlodipine,46-65,455,12.94,4680,56,0
+2025-06-23,2025,6,23,Africa,Nigeria,Vitamin,Vitamin C,26-45,294,9.07,4568,430,0
+2025-06-23,2025,6,23,Oceania,New Zealand,Chronic,Metformin,46-65,460,55.65,4659,296,0
+2025-06-23,2025,6,23,Africa,Kenya,Antibiotic,Amoxicillin,46-65,324,62.08,4800,479,0
+2025-06-24,2025,6,24,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,13-25,388,99.1,4762,599,0
+2025-06-24,2025,6,24,East Asia,South Korea,Vitamin,Vitamin C,65+,358,7.65,4783,399,0
+2025-06-25,2025,6,25,Middle East,Saudi Arabia,Cough_Cold,Cough Syrup,65+,458,12.4,4370,224,0
+2025-06-25,2025,6,25,Europe,Germany,Chronic,Amlodipine,46-65,461,18.03,4663,448,0
+2025-06-25,2025,6,25,South Asia,Sri Lanka,Cough_Cold,Cough Syrup,65+,525,41.11,4643,434,0
+2025-06-26,2025,6,26,Middle East,UAE,Chronic,Amlodipine,65+,370,39.15,4730,580,0
+2025-06-26,2025,6,26,South America,Brazil,Cough_Cold,Cetirizine,65+,234,91.36,4654,101,0
+2025-06-26,2025,6,26,Oceania,Australia,Chronic,Amlodipine,13-25,456,38.65,4713,96,0
+2025-06-26,2025,6,26,Africa,Kenya,Chronic,Metformin,13-25,419,29.75,4750,185,0
+2025-06-26,2025,6,26,North America,Canada,Vitamin,Multivitamin,65+,249,43.51,4657,276,0
+2025-06-27,2025,6,27,Middle East,Saudi Arabia,Chronic,Amlodipine,65+,283,55.23,4872,120,0
+2025-06-27,2025,6,27,Oceania,Australia,Cough_Cold,Cetirizine,46-65,353,80.77,4556,404,0
+2025-06-27,2025,6,27,North America,USA,Antibiotic,Amoxicillin,46-65,250,49.51,4896,632,0
+2025-06-29,2025,6,29,Europe,UK,Chronic,Metformin,26-45,195,11.03,4605,370,0
+2025-06-29,2025,6,29,South America,Brazil,Antibiotic,Azithromycin,26-45,420,45.53,4741,424,0
+2025-06-29,2025,6,29,South Asia,Sri Lanka,Chronic,Amlodipine,13-25,474,53.39,4658,697,0
+2025-06-29,2025,6,29,North America,Canada,Antibiotic,Azithromycin,65+,228,73.72,4711,171,0
+2025-06-30,2025,6,30,East Asia,China,Vitamin,Multivitamin,65+,492,61.02,4506,645,0
+2025-06-30,2025,6,30,Africa,Kenya,Antibiotic,Amoxicillin,65+,375,66.3,4737,391,0
+2025-06-30,2025,6,30,South America,Brazil,Antibiotic,Azithromycin,46-65,444,28.73,4529,460,0
+2025-07-01,2025,7,1,South Asia,Bangladesh,Cough_Cold,Cetirizine,65+,323,29.2,4842,188,0
+2025-07-01,2025,7,1,Europe,Germany,Chronic,Metformin,65+,297,73.92,4594,31,0
+2025-07-01,2025,7,1,Africa,Nigeria,Cough_Cold,Cough Syrup,0-12,293,18.6,4602,475,0
+2025-07-01,2025,7,1,East Asia,Japan,Cough_Cold,Cetirizine,46-65,201,48.42,4604,654,0
+2025-07-01,2025,7,1,Africa,Nigeria,Antipyretic,Paracetamol,65+,178,5.1,4863,89,0
+2025-07-01,2025,7,1,Europe,UK,Cough_Cold,Cough Syrup,65+,198,57.43,4616,315,0
+2025-07-01,2025,7,1,Europe,France,Cough_Cold,Cetirizine,65+,257,86.89,4736,271,0
+2025-07-02,2025,7,2,Africa,Kenya,Cough_Cold,Cetirizine,46-65,231,30.48,4769,601,0
+2025-07-02,2025,7,2,Africa,Nigeria,Chronic,Amlodipine,13-25,224,42.56,4822,189,0
+2025-07-02,2025,7,2,Africa,Nigeria,Antibiotic,Amoxicillin,46-65,385,34.48,4616,499,0
+2025-07-02,2025,7,2,South Asia,India,Antipyretic,Paracetamol,13-25,266,50.96,4874,282,0
+2025-07-02,2025,7,2,Europe,France,Antibiotic,Amoxicillin,65+,392,12.06,4606,185,0
+2025-07-03,2025,7,3,Middle East,Saudi Arabia,Chronic,Metformin,26-45,159,74.52,4940,285,0
+2025-07-03,2025,7,3,East Asia,Japan,Cough_Cold,Cough Syrup,65+,307,33.44,4824,389,0
+2025-07-03,2025,7,3,East Asia,Japan,Antibiotic,Amoxicillin,65+,305,94.68,4576,493,0
+2025-07-03,2025,7,3,Africa,Nigeria,Antibiotic,Azithromycin,0-12,221,64.0,4617,240,0
+2025-07-05,2025,7,5,Africa,Nigeria,Cough_Cold,Cough Syrup,65+,329,17.17,4483,195,0
+2025-07-05,2025,7,5,Africa,Kenya,Chronic,Amlodipine,26-45,283,72.97,4789,657,0
+2025-07-06,2025,7,6,East Asia,Japan,Antibiotic,Amoxicillin,0-12,278,79.0,4544,624,0
+2025-07-06,2025,7,6,East Asia,South Korea,Chronic,Metformin,65+,353,66.4,4532,656,0
+2025-07-06,2025,7,6,East Asia,China,Antipyretic,Ibuprofen,65+,381,77.05,4440,625,0
+2025-07-07,2025,7,7,East Asia,China,Chronic,Metformin,13-25,353,18.66,4615,91,0
+2025-07-07,2025,7,7,Oceania,Australia,Antibiotic,Azithromycin,0-12,167,51.64,4911,414,0
+2025-07-07,2025,7,7,Africa,Nigeria,Vitamin,Vitamin C,65+,391,58.86,4673,68,0
+2025-07-07,2025,7,7,Africa,Kenya,Cough_Cold,Cetirizine,46-65,350,25.86,4515,181,0
+2025-07-08,2025,7,8,Europe,France,Antibiotic,Azithromycin,65+,396,38.59,4518,333,0
+2025-07-08,2025,7,8,East Asia,Japan,Vitamin,Multivitamin,13-25,216,98.44,4777,676,0
+2025-07-10,2025,7,10,East Asia,China,Antibiotic,Amoxicillin,46-65,376,41.83,4530,506,0
+2025-07-11,2025,7,11,Europe,France,Cough_Cold,Cetirizine,46-65,223,46.47,4613,164,0
+2025-07-11,2025,7,11,South America,Argentina,Cough_Cold,Cough Syrup,0-12,206,98.82,4894,608,0
+2025-07-11,2025,7,11,Europe,UK,Chronic,Amlodipine,13-25,224,91.02,4619,277,0
+2025-07-11,2025,7,11,North America,Canada,Antipyretic,Paracetamol,46-65,343,59.85,4739,658,0
+2025-07-11,2025,7,11,Africa,Kenya,Antipyretic,Paracetamol,13-25,305,11.13,4655,592,0
+2025-07-12,2025,7,12,South Asia,Sri Lanka,Vitamin,Multivitamin,46-65,137,38.95,4954,107,0
+2025-07-12,2025,7,12,South America,Brazil,Vitamin,Vitamin C,46-65,383,41.49,4499,191,0
+2025-07-12,2025,7,12,North America,USA,Chronic,Amlodipine,46-65,263,7.55,4879,67,0
+2025-07-12,2025,7,12,South Asia,Bangladesh,Antibiotic,Amoxicillin,0-12,206,73.44,4968,170,0
+2025-07-12,2025,7,12,Europe,France,Vitamin,Multivitamin,26-45,405,93.2,4422,490,0
+2025-07-12,2025,7,12,East Asia,South Korea,Cough_Cold,Cough Syrup,0-12,204,20.44,4769,630,0
+2025-07-13,2025,7,13,Middle East,Saudi Arabia,Vitamin,Vitamin C,65+,326,18.19,4781,660,0
+2025-07-13,2025,7,13,East Asia,South Korea,Cough_Cold,Cough Syrup,13-25,393,28.16,4737,588,0
+2025-07-13,2025,7,13,Middle East,UAE,Antipyretic,Paracetamol,46-65,292,16.34,4645,240,0
+2025-07-14,2025,7,14,Europe,UK,Chronic,Amlodipine,13-25,208,67.56,4883,531,0
+2025-07-14,2025,7,14,Africa,Nigeria,Antibiotic,Amoxicillin,13-25,271,84.11,4728,564,0
+2025-07-15,2025,7,15,South America,Brazil,Vitamin,Multivitamin,26-45,179,30.81,4657,668,0
+2025-07-16,2025,7,16,North America,Canada,Antipyretic,Paracetamol,0-12,418,91.26,4546,181,0
+2025-07-17,2025,7,17,North America,Canada,Chronic,Amlodipine,46-65,334,20.42,4735,200,0
+2025-07-18,2025,7,18,South America,Brazil,Antibiotic,Azithromycin,26-45,306,45.2,4893,138,0
+2025-07-18,2025,7,18,Europe,France,Chronic,Metformin,26-45,346,29.17,4562,673,0
+2025-07-18,2025,7,18,Oceania,New Zealand,Antipyretic,Ibuprofen,26-45,267,78.32,4899,497,0
+2025-07-18,2025,7,18,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,65+,352,10.58,4699,657,0
+2025-07-18,2025,7,18,South Asia,Sri Lanka,Vitamin,Vitamin C,65+,350,63.48,4801,647,0
+2025-07-19,2025,7,19,Africa,Kenya,Cough_Cold,Cough Syrup,46-65,261,58.5,4662,206,0
+2025-07-20,2025,7,20,East Asia,South Korea,Antibiotic,Azithromycin,0-12,327,79.27,4493,70,0
+2025-07-21,2025,7,21,South Asia,Sri Lanka,Antibiotic,Amoxicillin,26-45,372,94.77,4617,166,0
+2025-07-21,2025,7,21,Europe,UK,Chronic,Amlodipine,65+,170,95.86,4757,623,0
+2025-07-22,2025,7,22,North America,Canada,Antibiotic,Amoxicillin,0-12,211,21.02,4774,198,0
+2025-07-23,2025,7,23,Africa,Kenya,Chronic,Metformin,13-25,203,97.94,4760,104,0
+2025-07-23,2025,7,23,East Asia,South Korea,Antipyretic,Paracetamol,0-12,168,50.05,4769,236,0
+2025-07-23,2025,7,23,Oceania,Australia,Cough_Cold,Cough Syrup,26-45,250,20.77,4869,278,0
+2025-07-23,2025,7,23,South America,Argentina,Vitamin,Multivitamin,13-25,242,96.23,4946,154,0
+2025-07-24,2025,7,24,East Asia,China,Cough_Cold,Cough Syrup,46-65,420,54.34,4454,622,0
+2025-07-24,2025,7,24,North America,Canada,Cough_Cold,Cough Syrup,13-25,352,75.95,4821,444,0
+2025-07-25,2025,7,25,Oceania,Australia,Chronic,Amlodipine,13-25,248,44.39,4892,648,0
+2025-07-25,2025,7,25,Oceania,New Zealand,Antipyretic,Ibuprofen,26-45,301,79.01,4785,714,0
+2025-07-26,2025,7,26,South America,Argentina,Antipyretic,Paracetamol,0-12,260,22.0,4733,141,0
+2025-07-26,2025,7,26,Oceania,New Zealand,Antibiotic,Amoxicillin,26-45,296,15.51,4861,259,0
+2025-07-26,2025,7,26,South America,Argentina,Antibiotic,Amoxicillin,26-45,332,66.96,4747,164,0
+2025-07-27,2025,7,27,Oceania,Australia,Antibiotic,Amoxicillin,13-25,238,17.96,4635,266,0
+2025-07-27,2025,7,27,Africa,Kenya,Vitamin,Multivitamin,13-25,266,44.17,4628,67,0
+2025-07-27,2025,7,27,South Asia,Bangladesh,Antipyretic,Ibuprofen,46-65,1630,96.2,3338,495,0
+2025-07-27,2025,7,27,North America,USA,Vitamin,Vitamin C,46-65,339,27.76,4594,428,0
+2025-07-28,2025,7,28,South Asia,Sri Lanka,Vitamin,Multivitamin,65+,282,79.11,4678,703,0
+2025-07-28,2025,7,28,North America,Canada,Chronic,Amlodipine,0-12,176,31.92,4834,671,0
+2025-07-28,2025,7,28,South Asia,Bangladesh,Chronic,Metformin,0-12,149,46.56,4778,205,0
+2025-07-29,2025,7,29,Europe,France,Chronic,Metformin,65+,204,8.8,4830,519,0
+2025-07-29,2025,7,29,Africa,Kenya,Vitamin,Vitamin C,0-12,211,19.71,4854,276,0
+2025-07-29,2025,7,29,Oceania,Australia,Antibiotic,Azithromycin,13-25,220,76.08,4779,630,0
+2025-07-30,2025,7,30,South Asia,Sri Lanka,Chronic,Amlodipine,46-65,3400,85.12,1757,249,0
+2025-07-30,2025,7,30,Africa,Kenya,Antibiotic,Azithromycin,65+,960,40.1,4074,245,0
+2025-07-30,2025,7,30,South America,Brazil,Antipyretic,Paracetamol,0-12,178,88.28,4864,527,0
+2025-07-31,2025,7,31,Africa,Nigeria,Vitamin,Multivitamin,26-45,348,87.12,4560,568,0
+2025-07-31,2025,7,31,East Asia,South Korea,Antipyretic,Ibuprofen,13-25,263,91.35,4899,320,0
+2025-07-31,2025,7,31,Africa,Kenya,Antibiotic,Azithromycin,13-25,351,23.68,4684,412,0
+2025-08-01,2025,8,1,East Asia,China,Chronic,Metformin,26-45,274,15.29,4566,138,0
+2025-08-02,2025,8,2,Middle East,Saudi Arabia,Antibiotic,Azithromycin,46-65,263,12.39,4629,435,0
+2025-08-02,2025,8,2,Middle East,Saudi Arabia,Antipyretic,Paracetamol,13-25,215,72.81,4725,590,0
+2025-08-03,2025,8,3,Africa,Kenya,Antipyretic,Ibuprofen,65+,185,87.74,4888,422,0
+2025-08-04,2025,8,4,South America,Brazil,Cough_Cold,Cough Syrup,26-45,274,32.47,4567,106,0
+2025-08-04,2025,8,4,South America,Argentina,Antipyretic,Ibuprofen,0-12,240,23.19,4893,260,0
+2025-08-05,2025,8,5,Middle East,Saudi Arabia,Vitamin,Multivitamin,65+,320,82.49,4787,689,0
+2025-08-05,2025,8,5,South Asia,Sri Lanka,Antibiotic,Amoxicillin,13-25,202,72.93,4802,678,0
+2025-08-05,2025,8,5,North America,USA,Antibiotic,Amoxicillin,65+,324,98.56,4705,639,0
+2025-08-05,2025,8,5,Africa,Nigeria,Vitamin,Multivitamin,65+,393,68.76,4597,249,0
+2025-08-05,2025,8,5,Europe,France,Antibiotic,Azithromycin,46-65,188,56.06,4880,250,0
+2025-08-07,2025,8,7,Africa,Kenya,Cough_Cold,Cough Syrup,46-65,246,66.85,4799,67,0
+2025-08-07,2025,8,7,East Asia,South Korea,Antibiotic,Amoxicillin,46-65,263,62.32,4537,418,0
+2025-08-07,2025,8,7,East Asia,Japan,Cough_Cold,Cough Syrup,46-65,306,8.05,4834,116,0
+2025-08-07,2025,8,7,South Asia,Bangladesh,Vitamin,Multivitamin,0-12,320,90.29,4666,630,0
+2025-08-07,2025,8,7,Africa,Kenya,Antipyretic,Ibuprofen,65+,208,32.96,4973,229,0
+2025-08-07,2025,8,7,East Asia,Japan,Antibiotic,Azithromycin,26-45,149,76.21,4700,94,0
+2025-08-07,2025,8,7,South Asia,Bangladesh,Cough_Cold,Cetirizine,65+,201,7.07,4726,43,0
+2025-08-08,2025,8,8,Oceania,Australia,Chronic,Amlodipine,26-45,104,28.01,4851,298,0
+2025-08-08,2025,8,8,South America,Argentina,Chronic,Amlodipine,65+,195,58.77,4697,342,0
+2025-08-08,2025,8,8,Europe,Germany,Antipyretic,Ibuprofen,13-25,296,33.53,4904,120,0
+2025-08-08,2025,8,8,Europe,France,Vitamin,Vitamin C,46-65,319,47.06,4556,626,0
+2025-08-10,2025,8,10,Europe,Germany,Chronic,Amlodipine,26-45,300,18.89,4735,43,0
+2025-08-10,2025,8,10,Middle East,UAE,Antipyretic,Ibuprofen,46-65,296,70.38,4561,558,0
+2025-08-11,2025,8,11,East Asia,Japan,Cough_Cold,Cetirizine,26-45,348,91.67,4673,512,0
+2025-08-11,2025,8,11,East Asia,China,Chronic,Amlodipine,13-25,283,90.16,4860,615,0
+2025-08-11,2025,8,11,Africa,Kenya,Antibiotic,Azithromycin,46-65,207,30.37,4744,122,0
+2025-08-11,2025,8,11,Middle East,UAE,Chronic,Metformin,0-12,271,20.2,4857,594,0
+2025-08-11,2025,8,11,South America,Brazil,Vitamin,Vitamin C,65+,275,76.5,4871,614,0
+2025-08-11,2025,8,11,Oceania,Australia,Antibiotic,Amoxicillin,13-25,199,67.81,4708,559,0
+2025-08-12,2025,8,12,Middle East,UAE,Antipyretic,Ibuprofen,26-45,157,38.95,4981,599,0
+2025-08-12,2025,8,12,South Asia,India,Cough_Cold,Cetirizine,13-25,325,9.72,4588,693,0
+2025-08-12,2025,8,12,Middle East,Saudi Arabia,Vitamin,Vitamin C,26-45,279,71.22,4548,693,0
+2025-08-13,2025,8,13,South America,Brazil,Antipyretic,Ibuprofen,26-45,334,70.8,4709,554,0
+2025-08-13,2025,8,13,East Asia,China,Vitamin,Vitamin C,26-45,158,58.87,5039,553,0
+2025-08-13,2025,8,13,Oceania,New Zealand,Vitamin,Vitamin C,65+,304,64.77,4779,437,0
+2025-08-14,2025,8,14,South America,Argentina,Chronic,Metformin,46-65,272,40.84,4877,191,0
+2025-08-14,2025,8,14,North America,USA,Antipyretic,Paracetamol,46-65,259,6.95,4789,356,0
+2025-08-14,2025,8,14,Middle East,Saudi Arabia,Chronic,Metformin,46-65,108,95.73,4813,273,0
+2025-08-14,2025,8,14,South Asia,Sri Lanka,Chronic,Amlodipine,0-12,225,72.97,4719,380,0
+2025-08-15,2025,8,15,Europe,France,Antipyretic,Ibuprofen,26-45,268,30.48,4839,506,0
+2025-08-15,2025,8,15,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,65+,323,23.94,4732,251,0
+2025-08-16,2025,8,16,South America,Brazil,Antibiotic,Amoxicillin,0-12,357,71.32,4551,374,0
+2025-08-16,2025,8,16,Africa,Kenya,Antibiotic,Azithromycin,0-12,250,85.82,4759,396,0
+2025-08-16,2025,8,16,Europe,Germany,Vitamin,Multivitamin,46-65,303,84.43,4642,529,0
+2025-08-16,2025,8,16,North America,USA,Antipyretic,Ibuprofen,13-25,168,86.6,4670,719,0
+2025-08-17,2025,8,17,Africa,Nigeria,Chronic,Metformin,26-45,306,87.38,4731,521,0
+2025-08-17,2025,8,17,Oceania,Australia,Antibiotic,Azithromycin,0-12,172,37.59,4847,86,0
+2025-08-18,2025,8,18,East Asia,South Korea,Chronic,Metformin,26-45,236,67.28,4675,459,0
+2025-08-19,2025,8,19,South America,Argentina,Antipyretic,Paracetamol,13-25,224,79.39,4671,295,0
+2025-08-19,2025,8,19,Middle East,UAE,Chronic,Amlodipine,46-65,177,31.22,5017,294,0
+2025-08-20,2025,8,20,Africa,Kenya,Antipyretic,Ibuprofen,46-65,207,95.42,4641,590,0
+2025-08-20,2025,8,20,Europe,UK,Cough_Cold,Cetirizine,26-45,354,63.32,4670,264,0
+2025-08-21,2025,8,21,South Asia,Bangladesh,Antipyretic,Ibuprofen,0-12,168,11.94,4809,52,0
+2025-08-22,2025,8,22,Europe,UK,Cough_Cold,Cetirizine,0-12,334,68.74,4479,317,0
+2025-08-22,2025,8,22,Middle East,UAE,Antipyretic,Paracetamol,13-25,159,18.46,4751,274,0
+2025-08-23,2025,8,23,Africa,Nigeria,Chronic,Metformin,65+,354,45.88,4581,518,0
+2025-08-23,2025,8,23,East Asia,South Korea,Chronic,Metformin,65+,206,51.93,4991,505,0
+2025-08-24,2025,8,24,Europe,UK,Cough_Cold,Cough Syrup,46-65,236,5.4,4763,398,0
+2025-08-24,2025,8,24,Middle East,Saudi Arabia,Antipyretic,Paracetamol,0-12,308,43.46,4826,117,0
+2025-08-24,2025,8,24,Oceania,Australia,Antipyretic,Ibuprofen,13-25,200,75.11,4620,136,0
+2025-08-25,2025,8,25,North America,USA,Antipyretic,Paracetamol,0-12,230,92.59,4841,558,0
+2025-08-25,2025,8,25,East Asia,Japan,Vitamin,Multivitamin,26-45,193,55.38,4717,96,0
+2025-08-25,2025,8,25,Europe,UK,Antibiotic,Amoxicillin,65+,191,34.73,4763,574,0
+2025-08-28,2025,8,28,South Asia,Bangladesh,Antipyretic,Ibuprofen,0-12,155,28.06,4910,505,0
+2025-08-28,2025,8,28,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,46-65,384,85.86,4715,645,0
+2025-08-28,2025,8,28,South America,Brazil,Antibiotic,Amoxicillin,13-25,271,96.61,4838,419,0
+2025-08-29,2025,8,29,East Asia,South Korea,Chronic,Metformin,0-12,195,16.3,4741,598,0
+2025-08-29,2025,8,29,Europe,France,Chronic,Metformin,46-65,254,7.27,4622,414,0
+2025-08-29,2025,8,29,East Asia,South Korea,Cough_Cold,Cetirizine,0-12,298,90.81,4666,280,0
+2025-08-29,2025,8,29,South Asia,India,Vitamin,Vitamin C,0-12,295,13.61,4640,291,0
+2025-08-30,2025,8,30,South Asia,Sri Lanka,Antibiotic,Azithromycin,13-25,293,19.41,4778,293,0
+2025-08-30,2025,8,30,South America,Brazil,Chronic,Amlodipine,65+,251,64.8,4826,210,0
+2025-08-30,2025,8,30,East Asia,Japan,Vitamin,Multivitamin,13-25,118,6.07,4771,119,0
+2025-08-31,2025,8,31,South Asia,Bangladesh,Cough_Cold,Cough Syrup,0-12,297,45.43,4781,45,0
+2025-08-31,2025,8,31,North America,USA,Cough_Cold,Cough Syrup,13-25,166,28.68,4918,140,0
+2025-09-01,2025,9,1,South Asia,Bangladesh,Chronic,Metformin,13-25,230,60.58,4620,543,0
+2025-09-01,2025,9,1,East Asia,China,Cough_Cold,Cetirizine,46-65,156,98.13,4902,712,0
+2025-09-01,2025,9,1,Middle East,UAE,Cough_Cold,Cetirizine,13-25,155,45.35,4903,363,0
+2025-09-02,2025,9,2,Oceania,New Zealand,Cough_Cold,Cetirizine,26-45,141,29.73,5044,319,0
+2025-09-02,2025,9,2,Middle East,Saudi Arabia,Vitamin,Multivitamin,26-45,314,36.14,4503,351,0
+2025-09-02,2025,9,2,South America,Argentina,Antipyretic,Paracetamol,26-45,168,8.74,4741,223,0
+2025-09-02,2025,9,2,North America,USA,Cough_Cold,Cetirizine,26-45,191,68.86,4878,584,0
+2025-09-02,2025,9,2,South Asia,Sri Lanka,Antipyretic,Ibuprofen,65+,316,40.81,4865,621,0
+2025-09-03,2025,9,3,Africa,Nigeria,Vitamin,Vitamin C,65+,305,13.08,4713,274,0
+2025-09-04,2025,9,4,Europe,Germany,Vitamin,Multivitamin,0-12,289,26.63,4827,455,0
+2025-09-04,2025,9,4,South Asia,Sri Lanka,Cough_Cold,Cetirizine,0-12,278,97.09,4705,133,0
+2025-09-04,2025,9,4,North America,Canada,Vitamin,Vitamin C,13-25,266,98.05,4785,515,0
+2025-09-04,2025,9,4,North America,Canada,Antipyretic,Ibuprofen,65+,344,28.73,4460,245,0
+2025-09-04,2025,9,4,East Asia,Japan,Antibiotic,Amoxicillin,46-65,139,41.96,4902,301,0
+2025-09-04,2025,9,4,South America,Brazil,Vitamin,Vitamin C,0-12,235,8.24,4574,700,0
+2025-09-04,2025,9,4,East Asia,Japan,Chronic,Amlodipine,13-25,224,90.94,4943,271,0
+2025-09-05,2025,9,5,East Asia,South Korea,Antibiotic,Amoxicillin,65+,180,62.89,4964,219,0
+2025-09-05,2025,9,5,North America,USA,Antipyretic,Paracetamol,46-65,274,47.69,4876,213,0
+2025-09-05,2025,9,5,Africa,Kenya,Antipyretic,Paracetamol,13-25,144,41.84,4978,500,0
+2025-09-05,2025,9,5,North America,USA,Cough_Cold,Cetirizine,65+,168,98.35,4882,347,0
+2025-09-06,2025,9,6,South Asia,Bangladesh,Antipyretic,Paracetamol,13-25,341,24.73,4684,41,0
+2025-09-06,2025,9,6,South America,Brazil,Cough_Cold,Cetirizine,0-12,213,73.59,4880,410,0
+2025-09-06,2025,9,6,North America,Canada,Vitamin,Multivitamin,46-65,287,77.34,4736,402,0
+2025-09-07,2025,9,7,Middle East,UAE,Antibiotic,Azithromycin,0-12,279,35.86,4784,98,0
+2025-09-07,2025,9,7,North America,USA,Antibiotic,Amoxicillin,0-12,129,90.73,4830,652,0
+2025-09-08,2025,9,8,Europe,France,Vitamin,Multivitamin,0-12,304,86.31,4549,527,0
+2025-09-08,2025,9,8,North America,USA,Chronic,Amlodipine,13-25,253,89.83,4803,99,0
+2025-09-08,2025,9,8,North America,Canada,Cough_Cold,Cetirizine,26-45,149,72.91,4976,580,0
+2025-09-08,2025,9,8,Middle East,UAE,Chronic,Metformin,46-65,202,39.4,4792,321,0
+2025-09-09,2025,9,9,Africa,Kenya,Chronic,Amlodipine,46-65,227,37.99,4749,257,0
+2025-09-09,2025,9,9,East Asia,South Korea,Vitamin,Vitamin C,0-12,244,12.56,4837,217,0
+2025-09-09,2025,9,9,South America,Brazil,Antibiotic,Azithromycin,46-65,296,5.67,4532,695,0
+2025-09-10,2025,9,10,East Asia,China,Antipyretic,Ibuprofen,0-12,157,66.6,4840,72,0
+2025-09-11,2025,9,11,East Asia,China,Vitamin,Vitamin C,65+,122,98.47,4857,709,0
+2025-09-11,2025,9,11,Europe,Germany,Vitamin,Multivitamin,46-65,266,73.45,4844,712,0
+2025-09-12,2025,9,12,North America,USA,Antipyretic,Ibuprofen,65+,314,44.78,4517,582,0
+2025-09-12,2025,9,12,Oceania,New Zealand,Vitamin,Vitamin C,65+,183,63.29,4761,92,0
+2025-09-12,2025,9,12,South Asia,Bangladesh,Antibiotic,Azithromycin,65+,248,75.52,4818,720,0
+2025-09-13,2025,9,13,South Asia,Sri Lanka,Antibiotic,Azithromycin,26-45,309,45.32,4491,430,0
+2025-09-13,2025,9,13,North America,USA,Antibiotic,Amoxicillin,0-12,260,46.23,4554,655,0
+2025-09-13,2025,9,13,East Asia,China,Cough_Cold,Cough Syrup,65+,202,13.03,4806,573,0
+2025-09-14,2025,9,14,Middle East,Saudi Arabia,Antipyretic,Paracetamol,13-25,150,73.96,4720,552,0
+2025-09-14,2025,9,14,Middle East,UAE,Cough_Cold,Cetirizine,0-12,244,20.38,4702,401,0
+2025-09-14,2025,9,14,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,0-12,129,73.7,4997,499,0
+2025-09-14,2025,9,14,Oceania,Australia,Antipyretic,Ibuprofen,13-25,293,20.74,4649,551,0
+2025-09-14,2025,9,14,Africa,Kenya,Antibiotic,Azithromycin,46-65,213,21.7,4872,511,0
+2025-09-15,2025,9,15,Europe,UK,Chronic,Metformin,46-65,265,23.42,4547,58,0
+2025-09-15,2025,9,15,Oceania,New Zealand,Vitamin,Multivitamin,65+,167,46.22,4683,347,0
+2025-09-16,2025,9,16,Africa,Kenya,Antipyretic,Paracetamol,13-25,139,26.62,4937,312,0
+2025-09-16,2025,9,16,South Asia,India,Chronic,Metformin,46-65,329,67.48,4538,129,0
+2025-09-16,2025,9,16,Africa,Nigeria,Antibiotic,Azithromycin,26-45,184,95.97,4669,333,0
+2025-09-17,2025,9,17,Africa,Kenya,Vitamin,Multivitamin,26-45,190,29.72,4668,634,0
+2025-09-18,2025,9,18,Europe,Germany,Chronic,Amlodipine,65+,171,59.11,4714,167,0
+2025-09-18,2025,9,18,North America,Canada,Antipyretic,Paracetamol,0-12,248,8.46,4666,675,0
+2025-09-18,2025,9,18,Africa,Nigeria,Cough_Cold,Cough Syrup,65+,223,47.28,4747,353,0
+2025-09-18,2025,9,18,Oceania,Australia,Antipyretic,Paracetamol,0-12,204,6.61,4672,473,0
+2025-09-18,2025,9,18,North America,Canada,Vitamin,Multivitamin,65+,259,56.82,4581,466,0
+2025-09-19,2025,9,19,Oceania,Australia,Chronic,Metformin,13-25,248,8.09,4936,251,0
+2025-09-20,2025,9,20,South America,Brazil,Cough_Cold,Cough Syrup,13-25,210,38.8,4987,593,0
+2025-09-20,2025,9,20,South America,Brazil,Cough_Cold,Cetirizine,26-45,311,49.31,4869,639,0
+2025-09-20,2025,9,20,Europe,France,Antipyretic,Paracetamol,65+,209,53.8,4749,321,0
+2025-09-20,2025,9,20,Africa,Nigeria,Chronic,Amlodipine,26-45,121,36.14,4769,627,0
+2025-09-20,2025,9,20,South America,Argentina,Antibiotic,Amoxicillin,26-45,147,25.88,4915,315,0
+2025-09-20,2025,9,20,South Asia,Bangladesh,Chronic,Amlodipine,46-65,229,37.73,4743,706,0
+2025-09-21,2025,9,21,South America,Brazil,Antipyretic,Paracetamol,26-45,242,95.95,4948,165,0
+2025-09-21,2025,9,21,Oceania,Australia,Cough_Cold,Cetirizine,0-12,156,33.5,4863,563,0
+2025-09-22,2025,9,22,East Asia,China,Antipyretic,Paracetamol,26-45,181,28.74,4781,190,0
+2025-09-22,2025,9,22,East Asia,South Korea,Chronic,Amlodipine,65+,234,71.48,4660,404,0
+2025-09-22,2025,9,22,South America,Brazil,Chronic,Metformin,13-25,193,72.56,4609,309,0
+2025-09-22,2025,9,22,Europe,Germany,Vitamin,Multivitamin,46-65,1016,23.31,3792,641,0
+2025-09-22,2025,9,22,East Asia,China,Cough_Cold,Cough Syrup,26-45,239,76.72,4816,699,0
+2025-09-22,2025,9,22,South America,Brazil,Vitamin,Vitamin C,13-25,197,7.43,4816,171,0
+2025-09-23,2025,9,23,North America,USA,Vitamin,Multivitamin,0-12,327,8.66,4859,397,0
+2025-09-23,2025,9,23,Africa,Nigeria,Vitamin,Vitamin C,46-65,280,77.41,4545,361,0
+2025-09-23,2025,9,23,Oceania,New Zealand,Vitamin,Vitamin C,65+,256,91.05,4614,559,0
+2025-09-24,2025,9,24,Middle East,Saudi Arabia,Antipyretic,Ibuprofen,26-45,308,41.11,4765,37,0
+2025-09-24,2025,9,24,Middle East,UAE,Antibiotic,Amoxicillin,13-25,228,79.13,4882,576,0
+2025-09-24,2025,9,24,East Asia,Japan,Chronic,Metformin,46-65,201,92.66,4888,587,0
+2025-09-24,2025,9,24,Africa,Kenya,Cough_Cold,Cough Syrup,65+,185,76.79,4705,516,0
+2025-09-25,2025,9,25,East Asia,China,Antibiotic,Azithromycin,0-12,145,73.2,4657,198,0
+2025-09-25,2025,9,25,East Asia,Japan,Antibiotic,Amoxicillin,0-12,282,16.1,4688,100,0
+2025-09-25,2025,9,25,North America,USA,Vitamin,Vitamin C,26-45,336,33.73,4582,528,0
+2025-09-25,2025,9,25,South America,Argentina,Antibiotic,Azithromycin,65+,266,36.88,4680,401,0
+2025-09-26,2025,9,26,Oceania,Australia,Antibiotic,Amoxicillin,26-45,144,21.65,4975,234,0
+2025-09-26,2025,9,26,South Asia,Sri Lanka,Chronic,Metformin,65+,149,89.85,4968,357,0
+2025-09-26,2025,9,26,Oceania,Australia,Cough_Cold,Cough Syrup,46-65,279,6.79,4696,209,0
+2025-09-26,2025,9,26,Europe,France,Cough_Cold,Cough Syrup,26-45,164,37.86,4650,718,0
+2025-09-26,2025,9,26,East Asia,Japan,Antibiotic,Amoxicillin,0-12,154,71.88,4689,621,0
+2025-09-26,2025,9,26,Africa,Kenya,Antipyretic,Paracetamol,65+,285,13.82,4795,217,0
+2025-09-27,2025,9,27,South Asia,India,Antibiotic,Amoxicillin,13-25,216,42.37,4628,132,0
+2025-09-27,2025,9,27,Africa,Nigeria,Vitamin,Vitamin C,46-65,192,34.7,4970,255,0
+2025-09-27,2025,9,27,Europe,UK,Antipyretic,Ibuprofen,46-65,203,59.17,4940,117,0
+2025-09-28,2025,9,28,Europe,UK,Antipyretic,Paracetamol,13-25,212,35.98,4664,87,0
+2025-09-28,2025,9,28,North America,Canada,Chronic,Metformin,65+,238,76.79,4855,170,0
+2025-09-28,2025,9,28,Africa,Kenya,Chronic,Metformin,0-12,253,48.47,4751,52,0
+2025-09-28,2025,9,28,South America,Brazil,Chronic,Metformin,26-45,151,80.82,4731,417,0
+2025-09-29,2025,9,29,Oceania,Australia,Antibiotic,Azithromycin,13-25,234,46.6,4761,708,0
+2025-09-30,2025,9,30,East Asia,China,Antibiotic,Amoxicillin,46-65,128,28.73,5018,39,0
+2025-09-30,2025,9,30,South America,Brazil,Chronic,Metformin,65+,308,73.71,4735,280,0
+2025-09-30,2025,9,30,South Asia,Sri Lanka,Antipyretic,Ibuprofen,0-12,130,85.05,4988,660,0
+2025-09-30,2025,9,30,Middle East,UAE,Antipyretic,Paracetamol,65+,236,11.24,4639,147,0
+2025-09-30,2025,9,30,South America,Brazil,Antibiotic,Amoxicillin,65+,211,35.08,4712,296,0
+2025-09-30,2025,9,30,Africa,Nigeria,Chronic,Amlodipine,13-25,189,78.03,4661,551,0
+2025-09-30,2025,9,30,East Asia,China,Antipyretic,Paracetamol,26-45,107,75.62,4812,47,0
+2025-09-30,2025,9,30,Africa,Kenya,Vitamin,Multivitamin,46-65,1008,14.53,4156,122,0
+2025-09-30,2025,9,30,Europe,UK,Chronic,Metformin,65+,227,28.23,4679,325,0
+2025-10-01,2025,10,1,Europe,UK,Antipyretic,Paracetamol,26-45,213,65.65,4972,429,0
+2025-10-01,2025,10,1,Middle East,Saudi Arabia,Vitamin,Vitamin C,0-12,371,48.4,4643,376,0
+2025-10-01,2025,10,1,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,13-25,265,63.17,4708,453,0
+2025-10-02,2025,10,2,Europe,Germany,Antipyretic,Paracetamol,26-45,258,6.3,4669,83,0
+2025-10-02,2025,10,2,South Asia,India,Antibiotic,Amoxicillin,46-65,301,43.17,4747,675,0
+2025-10-03,2025,10,3,South Asia,India,Antipyretic,Ibuprofen,46-65,151,78.61,4826,471,0
+2025-10-03,2025,10,3,South Asia,Bangladesh,Antibiotic,Amoxicillin,0-12,163,30.26,4865,400,0
+2025-10-04,2025,10,4,Oceania,New Zealand,Cough_Cold,Cough Syrup,13-25,123,65.28,4915,618,0
+2025-10-04,2025,10,4,East Asia,South Korea,Antipyretic,Ibuprofen,26-45,244,47.98,4759,398,0
+2025-10-04,2025,10,4,South Asia,Sri Lanka,Chronic,Amlodipine,0-12,267,75.35,4589,578,0
+2025-10-04,2025,10,4,Oceania,Australia,Vitamin,Multivitamin,46-65,112,46.35,5028,279,0
+2025-10-04,2025,10,4,South Asia,Sri Lanka,Chronic,Metformin,13-25,121,36.52,4857,427,0
+2025-10-06,2025,10,6,Africa,Nigeria,Chronic,Amlodipine,65+,212,66.99,4744,64,0
+2025-10-06,2025,10,6,Middle East,Saudi Arabia,Vitamin,Vitamin C,13-25,143,85.0,4805,531,0
+2025-10-06,2025,10,6,Oceania,Australia,Antibiotic,Azithromycin,26-45,220,88.67,4911,672,0
+2025-10-06,2025,10,6,Europe,Germany,Antipyretic,Ibuprofen,46-65,164,34.88,4889,558,0
+2025-10-07,2025,10,7,Middle East,Saudi Arabia,Antibiotic,Azithromycin,0-12,200,35.73,4783,49,0
+2025-10-07,2025,10,7,Oceania,New Zealand,Cough_Cold,Cetirizine,46-65,162,59.04,4850,142,0
+2025-10-08,2025,10,8,South America,Brazil,Chronic,Metformin,13-25,223,96.93,4687,188,0
+2025-10-08,2025,10,8,Europe,Germany,Cough_Cold,Cetirizine,46-65,207,35.37,4879,438,0
+2025-10-08,2025,10,8,Europe,UK,Chronic,Amlodipine,0-12,1434,52.75,3746,708,0
+2025-10-10,2025,10,10,East Asia,South Korea,Antibiotic,Azithromycin,65+,226,87.76,4756,542,0
+2025-10-10,2025,10,10,North America,Canada,Vitamin,Multivitamin,65+,180,15.19,4664,523,0
+2025-10-10,2025,10,10,South Asia,Bangladesh,Cough_Cold,Cough Syrup,0-12,191,32.19,4746,270,0
+2025-10-11,2025,10,11,Middle East,UAE,Antipyretic,Ibuprofen,0-12,282,70.56,4653,84,0
+2025-10-12,2025,10,12,Middle East,UAE,Vitamin,Vitamin C,26-45,334,95.58,4757,570,0
+2025-10-12,2025,10,12,East Asia,China,Vitamin,Multivitamin,65+,146,95.3,4949,551,0
+2025-10-13,2025,10,13,Middle East,Saudi Arabia,Vitamin,Multivitamin,46-65,267,35.47,4848,496,0
+2025-10-13,2025,10,13,Middle East,Saudi Arabia,Chronic,Metformin,0-12,350,94.62,4837,230,0
+2025-10-13,2025,10,13,Europe,UK,Vitamin,Vitamin C,26-45,219,14.09,4859,221,0
+2025-10-13,2025,10,13,Africa,Kenya,Cough_Cold,Cetirizine,46-65,355,6.04,4725,119,0
+2025-10-14,2025,10,14,North America,Canada,Vitamin,Multivitamin,46-65,155,11.06,5044,197,0
+2025-10-14,2025,10,14,East Asia,South Korea,Vitamin,Multivitamin,13-25,267,54.4,4649,705,0
+2025-10-14,2025,10,14,South Asia,Bangladesh,Antipyretic,Ibuprofen,13-25,188,72.02,4805,466,0
+2025-10-17,2025,10,17,East Asia,Japan,Antipyretic,Ibuprofen,0-12,278,49.48,4917,447,0
+2025-10-17,2025,10,17,South Asia,India,Antibiotic,Amoxicillin,26-45,279,22.51,4703,676,0
+2025-10-17,2025,10,17,South Asia,India,Cough_Cold,Cetirizine,26-45,327,96.02,4853,278,0
+2025-10-17,2025,10,17,South America,Brazil,Cough_Cold,Cough Syrup,0-12,234,54.39,4617,543,0
+2025-10-18,2025,10,18,South Asia,Bangladesh,Vitamin,Multivitamin,46-65,283,78.44,4887,539,0
+2025-10-18,2025,10,18,Oceania,Australia,Cough_Cold,Cetirizine,0-12,187,50.97,5013,133,0
+2025-10-18,2025,10,18,Europe,Germany,Vitamin,Multivitamin,0-12,228,24.2,4869,688,0
+2025-10-18,2025,10,18,North America,USA,Antipyretic,Ibuprofen,46-65,209,62.5,4927,54,0
+2025-10-19,2025,10,19,East Asia,China,Vitamin,Vitamin C,13-25,134,97.45,4911,559,0
+2025-10-19,2025,10,19,Oceania,New Zealand,Vitamin,Multivitamin,65+,194,45.25,4722,319,0
+2025-10-19,2025,10,19,Middle East,Saudi Arabia,Chronic,Metformin,26-45,357,12.41,4691,646,0
+2025-10-19,2025,10,19,North America,Canada,Cough_Cold,Cough Syrup,65+,265,98.87,4746,425,0
+2025-10-20,2025,10,20,Europe,France,Antibiotic,Azithromycin,65+,341,74.34,4617,456,0
+2025-10-20,2025,10,20,North America,Canada,Chronic,Amlodipine,0-12,245,18.18,4730,527,0
+2025-10-20,2025,10,20,South Asia,Sri Lanka,Cough_Cold,Cetirizine,0-12,209,92.15,4717,480,0
+2025-10-21,2025,10,21,North America,Canada,Antibiotic,Azithromycin,65+,243,12.88,4904,199,0
+2025-10-21,2025,10,21,Africa,Kenya,Chronic,Metformin,0-12,321,26.89,4681,547,0
+2025-10-21,2025,10,21,South America,Argentina,Vitamin,Vitamin C,0-12,285,16.02,4667,33,0
+2025-10-22,2025,10,22,Africa,Kenya,Chronic,Metformin,13-25,319,87.18,4693,389,0
+2025-10-22,2025,10,22,South America,Brazil,Vitamin,Vitamin C,26-45,195,64.92,4958,410,0
+2025-10-22,2025,10,22,Oceania,New Zealand,Antibiotic,Amoxicillin,0-12,254,65.54,4664,678,0
+2025-10-23,2025,10,23,South America,Brazil,Antipyretic,Ibuprofen,0-12,278,10.1,4682,541,0
+2025-10-23,2025,10,23,Middle East,Saudi Arabia,Vitamin,Multivitamin,46-65,186,90.26,4833,465,0
+2025-10-24,2025,10,24,East Asia,China,Antipyretic,Paracetamol,13-25,252,96.47,4605,120,0
+2025-10-25,2025,10,25,South Asia,Bangladesh,Cough_Cold,Cough Syrup,65+,164,88.67,5030,424,0
+2025-10-26,2025,10,26,North America,USA,Chronic,Metformin,0-12,256,43.59,4828,155,0
+2025-10-26,2025,10,26,North America,USA,Cough_Cold,Cetirizine,65+,196,20.42,4610,395,0
+2025-10-26,2025,10,26,South Asia,India,Chronic,Amlodipine,65+,207,38.69,4895,461,0
+2025-10-26,2025,10,26,South Asia,India,Antibiotic,Amoxicillin,0-12,250,26.89,4655,581,0
+2025-10-27,2025,10,27,South Asia,Sri Lanka,Antibiotic,Amoxicillin,0-12,176,80.73,4998,676,0
+2025-10-28,2025,10,28,South America,Argentina,Antibiotic,Amoxicillin,65+,177,28.37,4858,370,0
+2025-10-28,2025,10,28,Middle East,UAE,Cough_Cold,Cough Syrup,0-12,287,75.61,4761,93,0
+2025-10-28,2025,10,28,South Asia,Bangladesh,Cough_Cold,Cough Syrup,26-45,300,7.44,4575,56,0
+2025-10-29,2025,10,29,Europe,France,Antipyretic,Ibuprofen,0-12,222,88.37,4911,588,0
+2025-10-29,2025,10,29,South Asia,Bangladesh,Chronic,Metformin,13-25,394,47.24,4688,372,0
+2025-10-30,2025,10,30,North America,Canada,Antibiotic,Amoxicillin,0-12,201,82.14,4611,572,0
+2025-10-30,2025,10,30,North America,USA,Vitamin,Multivitamin,0-12,288,25.13,4776,593,0
+2025-10-30,2025,10,30,Middle East,UAE,Vitamin,Multivitamin,65+,349,92.11,4790,714,0
+2025-10-30,2025,10,30,Europe,France,Vitamin,Multivitamin,0-12,167,33.27,4927,345,0
+2025-10-30,2025,10,30,Africa,Nigeria,Vitamin,Multivitamin,13-25,262,71.47,4938,176,0
+2025-10-31,2025,10,31,North America,Canada,Chronic,Metformin,26-45,254,95.48,4932,307,0
+2025-11-01,2025,11,1,East Asia,China,Cough_Cold,Cough Syrup,26-45,389,51.32,4681,220,0
+2025-11-01,2025,11,1,Europe,Germany,Antibiotic,Amoxicillin,65+,372,81.66,4602,135,0
+2025-11-01,2025,11,1,Oceania,Australia,Antibiotic,Azithromycin,13-25,190,36.28,4757,294,0
+2025-11-01,2025,11,1,North America,Canada,Antipyretic,Paracetamol,46-65,186,89.84,4854,364,0
+2025-11-01,2025,11,1,South Asia,Bangladesh,Vitamin,Vitamin C,26-45,249,36.4,4597,303,0
+2025-11-02,2025,11,2,Middle East,UAE,Vitamin,Vitamin C,13-25,423,49.09,4490,536,0
+2025-11-02,2025,11,2,South Asia,Sri Lanka,Antibiotic,Amoxicillin,46-65,210,92.45,4682,54,0
+2025-11-02,2025,11,2,Europe,Germany,Chronic,Amlodipine,13-25,334,10.75,4718,140,0
+2025-11-03,2025,11,3,North America,Canada,Antibiotic,Amoxicillin,0-12,370,39.22,4587,537,0
+2025-11-03,2025,11,3,Middle East,Saudi Arabia,Antipyretic,Paracetamol,0-12,335,80.13,4467,419,0
+2025-11-03,2025,11,3,South America,Brazil,Cough_Cold,Cough Syrup,65+,223,77.01,4885,417,0
+2025-11-04,2025,11,4,South Asia,India,Antibiotic,Azithromycin,46-65,298,67.56,4722,114,0
+2025-11-04,2025,11,4,North America,Canada,Antibiotic,Amoxicillin,46-65,211,77.53,4974,682,0
+2025-11-04,2025,11,4,Middle East,UAE,Antipyretic,Ibuprofen,65+,164,41.57,4758,516,0
+2025-11-05,2025,11,5,North America,Canada,Vitamin,Vitamin C,0-12,457,37.5,4447,117,0
+2025-11-05,2025,11,5,South America,Brazil,Antipyretic,Paracetamol,46-65,278,46.56,4822,422,0
+2025-11-06,2025,11,6,South Asia,Sri Lanka,Chronic,Amlodipine,26-45,300,61.44,4525,144,0
+2025-11-06,2025,11,6,South America,Argentina,Vitamin,Vitamin C,65+,218,76.56,4953,293,0
+2025-11-06,2025,11,6,South America,Brazil,Antibiotic,Amoxicillin,65+,409,69.46,4594,397,0
+2025-11-07,2025,11,7,East Asia,South Korea,Antibiotic,Azithromycin,13-25,309,44.88,4780,283,0
+2025-11-07,2025,11,7,Africa,Kenya,Antipyretic,Paracetamol,13-25,364,96.2,4532,623,0
+2025-11-07,2025,11,7,South America,Brazil,Cough_Cold,Cough Syrup,46-65,217,91.77,4876,385,0
+2025-11-07,2025,11,7,Middle East,UAE,Cough_Cold,Cough Syrup,0-12,308,33.31,4739,584,0
+2025-11-08,2025,11,8,South America,Brazil,Antibiotic,Azithromycin,46-65,224,77.98,4815,621,0
+2025-11-08,2025,11,8,North America,USA,Chronic,Amlodipine,26-45,194,58.84,4832,147,0
+2025-11-08,2025,11,8,Europe,Germany,Cough_Cold,Cough Syrup,26-45,243,66.69,4616,674,0
+2025-11-09,2025,11,9,South Asia,Bangladesh,Chronic,Metformin,46-65,305,8.23,4512,409,0
+2025-11-09,2025,11,9,South America,Argentina,Antibiotic,Amoxicillin,65+,230,63.6,4856,184,0
+2025-11-10,2025,11,10,North America,Canada,Antipyretic,Ibuprofen,65+,192,57.33,4649,688,0
+2025-11-10,2025,11,10,Middle East,UAE,Chronic,Amlodipine,65+,271,35.71,4585,160,0
+2025-11-10,2025,11,10,North America,USA,Vitamin,Multivitamin,26-45,218,11.78,4725,483,0
+2025-11-10,2025,11,10,Africa,Nigeria,Cough_Cold,Cetirizine,13-25,378,44.73,4478,395,0
+2025-11-10,2025,11,10,Middle East,UAE,Vitamin,Vitamin C,0-12,273,59.28,4787,111,0
+2025-11-10,2025,11,10,Oceania,Australia,Cough_Cold,Cough Syrup,13-25,290,70.7,4653,645,0
+2025-11-10,2025,11,10,Africa,Kenya,Antibiotic,Azithromycin,46-65,206,96.24,4939,96,0
+2025-11-11,2025,11,11,East Asia,China,Antipyretic,Paracetamol,26-45,135,38.91,4982,580,0
+2025-11-12,2025,11,12,South Asia,India,Cough_Cold,Cough Syrup,46-65,248,15.02,4841,359,0
+2025-11-13,2025,11,13,South Asia,Bangladesh,Chronic,Amlodipine,0-12,295,89.71,4741,586,0
+2025-11-14,2025,11,14,North America,USA,Antibiotic,Azithromycin,0-12,153,81.21,4767,240,0
+2025-11-14,2025,11,14,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,0-12,277,18.26,4712,705,0
+2025-11-14,2025,11,14,East Asia,China,Antipyretic,Ibuprofen,46-65,295,59.95,4734,350,0
+2025-11-15,2025,11,15,South America,Argentina,Antibiotic,Amoxicillin,65+,204,69.15,4859,470,0
+2025-11-16,2025,11,16,Africa,Nigeria,Vitamin,Vitamin C,26-45,355,91.48,4652,626,0
+2025-11-16,2025,11,16,South Asia,Sri Lanka,Antibiotic,Azithromycin,46-65,454,50.68,4391,40,0
+2025-11-16,2025,11,16,Europe,Germany,Cough_Cold,Cetirizine,46-65,207,59.94,4619,499,0
+2025-11-16,2025,11,16,East Asia,South Korea,Cough_Cold,Cough Syrup,13-25,195,68.66,4969,113,0
+2025-11-17,2025,11,17,South America,Argentina,Antipyretic,Ibuprofen,26-45,256,52.89,4833,509,0
+2025-11-17,2025,11,17,South America,Brazil,Chronic,Metformin,0-12,313,67.46,4507,398,0
+2025-11-17,2025,11,17,Europe,UK,Antipyretic,Paracetamol,26-45,245,27.75,4954,66,0
+2025-11-17,2025,11,17,Middle East,UAE,Chronic,Amlodipine,13-25,383,41.48,4490,665,0
+2025-11-18,2025,11,18,Middle East,UAE,Antibiotic,Azithromycin,26-45,354,88.94,4664,180,0
+2025-11-19,2025,11,19,Europe,France,Vitamin,Vitamin C,0-12,266,32.4,4934,180,0
+2025-11-19,2025,11,19,North America,Canada,Antibiotic,Azithromycin,26-45,193,47.83,4689,154,0
+2025-11-19,2025,11,19,Oceania,Australia,Vitamin,Multivitamin,65+,288,82.48,4605,255,0
+2025-11-21,2025,11,21,South America,Argentina,Chronic,Metformin,46-65,365,14.57,4763,692,0
+2025-11-21,2025,11,21,South Asia,Bangladesh,Antibiotic,Amoxicillin,26-45,422,88.71,4488,512,0
+2025-11-21,2025,11,21,East Asia,South Korea,Antibiotic,Amoxicillin,0-12,325,44.15,4869,667,0
+2025-11-21,2025,11,21,South Asia,Bangladesh,Antipyretic,Ibuprofen,26-45,291,23.71,4603,142,0
+2025-11-21,2025,11,21,Middle East,UAE,Antibiotic,Azithromycin,65+,173,43.38,4875,559,0
+2025-11-22,2025,11,22,East Asia,South Korea,Vitamin,Vitamin C,65+,405,23.55,4523,368,0
+2025-11-22,2025,11,22,Europe,UK,Cough_Cold,Cough Syrup,65+,262,31.17,4609,35,0
+2025-11-24,2025,11,24,South Asia,India,Vitamin,Multivitamin,0-12,391,50.08,4743,688,0
+2025-11-24,2025,11,24,North America,Canada,Vitamin,Vitamin C,46-65,202,73.19,4728,123,0
+2025-11-24,2025,11,24,North America,Canada,Chronic,Metformin,0-12,386,56.21,4662,182,0
+2025-11-25,2025,11,25,Europe,Germany,Antipyretic,Ibuprofen,0-12,159,7.19,4844,332,0
+2025-11-25,2025,11,25,South Asia,Sri Lanka,Antibiotic,Amoxicillin,26-45,222,36.84,4707,361,0
+2025-11-25,2025,11,25,Africa,Kenya,Antipyretic,Ibuprofen,65+,378,12.5,4530,266,0
+2025-11-26,2025,11,26,Europe,Germany,Vitamin,Multivitamin,0-12,331,80.29,4783,580,0
+2025-11-26,2025,11,26,Africa,Kenya,Antipyretic,Paracetamol,46-65,308,52.92,4618,58,0
+2025-11-26,2025,11,26,East Asia,Japan,Chronic,Metformin,65+,354,44.64,4644,32,0
+2025-11-26,2025,11,26,South America,Argentina,Cough_Cold,Cough Syrup,0-12,363,78.21,4510,221,0
+2025-11-27,2025,11,27,Middle East,Saudi Arabia,Vitamin,Multivitamin,13-25,373,40.25,4429,581,0
+2025-11-28,2025,11,28,Africa,Kenya,Chronic,Metformin,46-65,201,64.96,4903,273,0
+2025-11-28,2025,11,28,North America,Canada,Antibiotic,Amoxicillin,0-12,277,53.01,4604,30,0
+2025-11-29,2025,11,29,Middle East,Saudi Arabia,Vitamin,Vitamin C,0-12,203,28.16,4685,685,0
+2025-11-30,2025,11,30,North America,Canada,Cough_Cold,Cough Syrup,0-12,370,75.21,4468,33,0
+2025-12-01,2025,12,1,South Asia,Bangladesh,Antibiotic,Azithromycin,26-45,255,74.89,4760,665,0
+2025-12-01,2025,12,1,South Asia,India,Vitamin,Multivitamin,65+,273,73.67,4896,74,0
+2025-12-02,2025,12,2,South America,Argentina,Chronic,Amlodipine,26-45,410,70.34,4640,436,0
+2025-12-02,2025,12,2,South Asia,Bangladesh,Cough_Cold,Cough Syrup,46-65,236,37.54,4946,518,0
+2025-12-02,2025,12,2,Europe,UK,Chronic,Metformin,26-45,392,92.85,4772,388,0
+2025-12-02,2025,12,2,South Asia,Bangladesh,Antibiotic,Azithromycin,65+,327,83.35,4510,336,0
+2025-12-02,2025,12,2,Middle East,UAE,Cough_Cold,Cough Syrup,65+,322,7.2,4636,176,0
+2025-12-03,2025,12,3,South Asia,India,Chronic,Amlodipine,26-45,489,65.76,4317,135,0
+2025-12-03,2025,12,3,Oceania,New Zealand,Vitamin,Vitamin C,26-45,315,16.58,4529,377,0
+2025-12-03,2025,12,3,Oceania,Australia,Antipyretic,Ibuprofen,65+,290,24.16,4892,413,0
+2025-12-04,2025,12,4,South America,Argentina,Antipyretic,Paracetamol,13-25,329,58.45,4826,384,0
+2025-12-04,2025,12,4,Middle East,Saudi Arabia,Chronic,Amlodipine,65+,172,21.97,4630,636,0
+2025-12-05,2025,12,5,Africa,Nigeria,Antibiotic,Amoxicillin,0-12,232,30.38,4786,130,0
+2025-12-06,2025,12,6,East Asia,Japan,Antibiotic,Amoxicillin,0-12,374,80.81,4504,485,0
+2025-12-06,2025,12,6,North America,USA,Vitamin,Multivitamin,0-12,428,16.98,4578,333,0
+2025-12-06,2025,12,6,Oceania,New Zealand,Antipyretic,Paracetamol,13-25,333,11.39,4468,53,0
+2025-12-07,2025,12,7,Oceania,Australia,Cough_Cold,Cough Syrup,65+,292,54.1,4580,546,0
+2025-12-07,2025,12,7,South Asia,India,Antibiotic,Amoxicillin,26-45,475,10.75,4629,374,0
+2025-12-07,2025,12,7,North America,USA,Antipyretic,Ibuprofen,65+,445,83.52,4403,82,0
+2025-12-07,2025,12,7,East Asia,Japan,Antibiotic,Azithromycin,46-65,260,39.63,4906,605,0
+2025-12-08,2025,12,8,North America,USA,Chronic,Amlodipine,13-25,488,65.31,4650,101,0
+2025-12-08,2025,12,8,Oceania,Australia,Vitamin,Multivitamin,26-45,333,91.07,4836,517,0
+2025-12-08,2025,12,8,Europe,UK,Chronic,Metformin,65+,387,11.71,4638,194,0
+2025-12-09,2025,12,9,Middle East,UAE,Antibiotic,Amoxicillin,0-12,2360,67.31,2685,613,0
+2025-12-09,2025,12,9,South America,Argentina,Vitamin,Vitamin C,65+,346,72.39,4691,486,0
+2025-12-09,2025,12,9,Oceania,Australia,Vitamin,Multivitamin,65+,419,76.03,4426,290,0
+2025-12-09,2025,12,9,Oceania,New Zealand,Antipyretic,Ibuprofen,13-25,351,85.43,4807,324,0
+2025-12-10,2025,12,10,Africa,Kenya,Cough_Cold,Cough Syrup,13-25,324,39.54,4737,426,0
+2025-12-10,2025,12,10,Oceania,Australia,Cough_Cold,Cough Syrup,13-25,216,33.54,4984,285,0
+2025-12-10,2025,12,10,Middle East,UAE,Cough_Cold,Cough Syrup,0-12,427,51.32,4573,313,0
+2025-12-11,2025,12,11,Oceania,Australia,Cough_Cold,Cough Syrup,13-25,369,76.09,4469,98,0
+2025-12-11,2025,12,11,South Asia,Bangladesh,Chronic,Metformin,13-25,281,54.77,4574,342,0
+2025-12-11,2025,12,11,Middle East,Saudi Arabia,Antipyretic,Ibuprofen,26-45,413,6.89,4413,135,0
+2025-12-12,2025,12,12,Africa,Nigeria,Vitamin,Vitamin C,13-25,388,60.41,4577,662,0
+2025-12-12,2025,12,12,Oceania,Australia,Chronic,Amlodipine,0-12,292,19.49,4841,479,0
+2025-12-13,2025,12,13,Africa,Kenya,Chronic,Metformin,26-45,240,83.69,4651,632,0
+2025-12-13,2025,12,13,South America,Brazil,Cough_Cold,Cough Syrup,46-65,233,81.55,4638,34,0
+2025-12-13,2025,12,13,Europe,UK,Vitamin,Vitamin C,26-45,454,31.24,4535,427,0
+2025-12-13,2025,12,13,Middle East,Saudi Arabia,Cough_Cold,Cough Syrup,65+,323,64.47,4758,171,0
+2025-12-13,2025,12,13,Europe,France,Antibiotic,Amoxicillin,65+,355,9.53,4722,120,0
+2025-12-13,2025,12,13,East Asia,Japan,Cough_Cold,Cough Syrup,46-65,405,92.73,4544,587,0
+2025-12-14,2025,12,14,Africa,Nigeria,Vitamin,Vitamin C,65+,422,38.31,4731,577,0
+2025-12-15,2025,12,15,Africa,Nigeria,Antipyretic,Ibuprofen,65+,431,67.17,4667,618,0
+2025-12-15,2025,12,15,South Asia,Sri Lanka,Antibiotic,Amoxicillin,0-12,451,23.66,4642,396,0
+2025-12-16,2025,12,16,Oceania,Australia,Chronic,Amlodipine,46-65,334,71.2,4492,173,0
+2025-12-16,2025,12,16,South Asia,Bangladesh,Chronic,Metformin,65+,379,77.26,4793,379,0
+2025-12-16,2025,12,16,South Asia,India,Antibiotic,Azithromycin,0-12,315,60.22,4614,136,0
+2025-12-16,2025,12,16,South Asia,Bangladesh,Chronic,Amlodipine,26-45,446,98.13,4377,44,0
+2025-12-16,2025,12,16,Africa,Kenya,Vitamin,Multivitamin,26-45,296,86.26,4557,70,0
+2025-12-17,2025,12,17,Middle East,UAE,Vitamin,Multivitamin,13-25,425,79.9,4719,548,0
+2025-12-17,2025,12,17,South Asia,Sri Lanka,Antibiotic,Amoxicillin,65+,247,7.4,4908,260,0
+2025-12-18,2025,12,18,Oceania,Australia,Cough_Cold,Cetirizine,26-45,455,70.73,4602,277,0
+2025-12-18,2025,12,18,Africa,Kenya,Antipyretic,Paracetamol,46-65,294,12.63,4544,140,0
+2025-12-18,2025,12,18,Europe,Germany,Antibiotic,Amoxicillin,13-25,491,63.73,4445,266,0
+2025-12-18,2025,12,18,Oceania,New Zealand,Vitamin,Multivitamin,13-25,396,18.31,4644,566,0
+2025-12-19,2025,12,19,Middle East,UAE,Cough_Cold,Cough Syrup,13-25,387,9.61,4653,376,0
+2025-12-20,2025,12,20,North America,Canada,Cough_Cold,Cough Syrup,13-25,389,93.23,4653,699,0
+2025-12-21,2025,12,21,Africa,Kenya,Cough_Cold,Cough Syrup,13-25,230,67.22,4860,104,0
+2025-12-22,2025,12,22,Oceania,New Zealand,Chronic,Amlodipine,46-65,381,73.13,4792,340,0
+2025-12-23,2025,12,23,North America,USA,Cough_Cold,Cough Syrup,46-65,417,40.98,4501,320,0
+2025-12-23,2025,12,23,East Asia,Japan,Antibiotic,Amoxicillin,13-25,361,21.35,4509,113,0
+2025-12-24,2025,12,24,East Asia,Japan,Cough_Cold,Cetirizine,46-65,450,54.95,4745,372,0
+2025-12-24,2025,12,24,South America,Argentina,Cough_Cold,Cetirizine,13-25,346,29.44,4566,170,0
+2025-12-24,2025,12,24,Middle East,UAE,Antipyretic,Paracetamol,65+,500,74.36,4625,607,0
+2025-12-25,2025,12,25,South America,Brazil,Chronic,Amlodipine,46-65,225,72.04,4706,287,0
+2025-12-25,2025,12,25,Africa,Nigeria,Cough_Cold,Cetirizine,26-45,323,38.6,4605,157,0
+2025-12-25,2025,12,25,Europe,France,Vitamin,Multivitamin,0-12,367,92.68,4497,567,0
+2025-12-25,2025,12,25,North America,USA,Antipyretic,Paracetamol,13-25,359,86.07,4538,109,0
+2025-12-25,2025,12,25,South America,Brazil,Vitamin,Multivitamin,0-12,275,22.53,4708,669,0
+2025-12-26,2025,12,26,South America,Brazil,Vitamin,Vitamin C,65+,2340,11.57,2519,87,0
+2025-12-26,2025,12,26,South Asia,Sri Lanka,Chronic,Metformin,65+,504,36.23,4522,150,0
+2025-12-27,2025,12,27,North America,USA,Cough_Cold,Cough Syrup,46-65,414,78.93,4530,471,0
+2025-12-28,2025,12,28,Middle East,UAE,Antibiotic,Amoxicillin,46-65,476,99.8,4415,35,0
+2025-12-28,2025,12,28,South America,Argentina,Cough_Cold,Cetirizine,26-45,326,25.23,4871,274,0
+2025-12-28,2025,12,28,East Asia,South Korea,Antibiotic,Azithromycin,46-65,251,70.02,4930,142,0
+2025-12-28,2025,12,28,Europe,UK,Vitamin,Multivitamin,13-25,465,60.59,4541,352,0
+2025-12-28,2025,12,28,Africa,Kenya,Cough_Cold,Cough Syrup,46-65,431,41.73,4633,185,0
+2025-12-29,2025,12,29,Europe,UK,Chronic,Metformin,46-65,395,75.38,4450,458,0
+2025-12-30,2025,12,30,East Asia,South Korea,Cough_Cold,Cetirizine,65+,400,60.22,4634,364,0
+2025-12-30,2025,12,30,East Asia,South Korea,Vitamin,Vitamin C,0-12,356,42.85,4673,511,0
+2025-12-31,2025,12,31,Africa,Kenya,Chronic,Metformin,13-25,432,81.69,4620,411,0
+2025-12-31,2025,12,31,South America,Brazil,Antibiotic,Azithromycin,26-45,241,31.42,4923,125,0
+2025-12-31,2025,12,31,Africa,Nigeria,Antipyretic,Ibuprofen,65+,256,79.94,4691,218,0
+2025-12-31,2025,12,31,North America,Canada,Vitamin,Vitamin C,13-25,311,24.01,4685,535,0
