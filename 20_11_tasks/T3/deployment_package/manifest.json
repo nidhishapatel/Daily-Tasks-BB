@@ -1,0 +1,17 @@
+{
+    "model_name": "decision_tree",
+    "artifact_path": "deployment_package/champion_pharmacy_pipeline.joblib",
+    "cv_r2_score": 0.8995841956275241,
+    "test_r2_score": 0.8685283656120019,
+    "test_mse": 20381.6303875148,
+    "feature_names": [
+        "unit_price",
+        "stock_level",
+        "expiry_days_remaining",
+        "covid_flag",
+        "year",
+        "month",
+        "day"
+    ],
+    "deployment_status": "live"
+}
